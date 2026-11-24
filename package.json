@@ -1,6 +1,6 @@
 {
-   "name": "@itsliaaa/baileys",
-   "version": "0.5.6",
+   "name": "@nozez-lab/baileys",
+   "version": "1.2.3",
    "description": "A lightweight, dependency-minimal Baileys v7 fork with newsletter media upload fixes, interactive messages, albums, and extended message type support.",
    "main": "lib/index.js",
    "types": "lib/index.d.ts",
@@ -13,7 +13,7 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/itsliaaa/baileys.git"
+      "url": "git+https://github.com/nozez-lab/baileys.git"
    },
    "files": [
       "lib/**/*",
@@ -32,8 +32,8 @@
       "whatsapp-bot",
       "whatsapp-web"
    ],
-   "homepage": "https://github.com/itsliaaa/baileys#readme",
-   "author": "Lia Wynn",
+   "homepage": "https://github.com/nozez-lab/baileys#readme",
+   "author": "Nozez",
    "license": "MIT",
    "dependencies": {
       "@itsliaaa/starforge": "0.0.0-alpha.13",
